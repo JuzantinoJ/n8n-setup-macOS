@@ -114,14 +114,18 @@ Phase 3
 - Analytics dashboard
 - WhatsApp integration
 
-Author
+# Author
 
-# Created by Juzantino Junadi
+'''
+Created by Juzantino Junadi
+'''
 
-Focused on:
+# Focused on:
 
+'''
 AI automation
 cloud workflows
 operational systems
 agentic AI
 intelligent scheduling systems
+'''
