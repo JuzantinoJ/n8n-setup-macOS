@@ -129,3 +129,34 @@ operational systems
 agentic AI
 intelligent scheduling systems
 ```
+
+---
+
+# Progress Tracker
+
+## Initial n8n Setup Completed
+
+### n8n Login Screen
+
+![n8n Login](screenshots/n8n-login.png)
+
+---
+
+### n8n Dashboard
+
+![n8n Dashboard](screenshots/n8n-dashboard.png)
+
+---
+
+# Current Progress
+
+- [x] GitHub repository setup
+- [x] Local project structure created
+- [x] Docker installed
+- [x] Node.js 20 installed
+- [x] n8n Docker image installed
+- [x] n8n running locally
+- [ ] Telegram bot integration
+- [ ] OpenAI API integration
+- [ ] Google Calendar integration
+- [ ] AI scheduling workflow
