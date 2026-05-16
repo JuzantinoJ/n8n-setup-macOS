@@ -52,8 +52,9 @@ ai-training-scheduler/
 
 ```
 
-Pre-flight Check
+# Pre-flight Check
 
+```text
 Before starting the project, run:
 ./scripts/check-n8n-readiness.sh
 
@@ -70,7 +71,11 @@ Recommended Node.js Version
 This project is tested with:
 Node.js 20 LTS
 
-Getting Started
+```
+
+# Getting Started
+
+```text
 Clone Repository
 git clone https://github.com/YOUR_USERNAME/ai-training-scheduler.git
 cd ai-training-scheduler
@@ -84,26 +89,34 @@ npx n8n
 Then open:
 http://localhost:5678
 
-Roadmap
+```
+
+# Roadmap
+
 Phase 1
-Telegram Bot Integration
-OpenAI API Integration
-Attendance Collection
-Availability Analysis
+
+- Telegram Bot Integration
+- OpenAI API Integration
+- Attendance Collection
+- Availability Analysis
+
 Phase 2
-Google Calendar Integration
-Automated Scheduling
-Reminder System
-Conflict Resolution Logic
+
+- Google Calendar Integration
+- Automated Scheduling
+- Reminder System
+- Conflict Resolution Logic
+
 Phase 3
-Multi-agent workflows
-Voice command scheduling
-Analytics dashboard
-WhatsApp integration
+
+- Multi-agent workflows
+- Voice command scheduling
+- Analytics dashboard
+- WhatsApp integration
 
 Author
 
-Created by Juzantino Junadi
+# Created by Juzantino Junadi
 
 Focused on:
 
